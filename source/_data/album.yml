@@ -1,0 +1,9 @@
+# 相册数据文件
+# 格式说明：
+# - cover: 封面图片
+#   path_name: 相册路径名
+#   description: 相册描述
+
+- cover: https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
+  path_name: album1
+  description: 我的相册集

@@ -1,0 +1,14 @@
+# 友情链接数据文件
+# 格式说明：
+# - name: 站点名称
+#   link: 站点链接
+#   avatar: 头像/图标
+#   descr: 站点描述
+
+- class_name: 友情链接
+  class_desc: 我的朋友们
+  link_list:
+    - name: AnZhiYu
+      link: https://hexo.anheyu.com/
+      avatar: https://bu.dusays.com/2023/04/27/64496e511b09c.jpg
+      descr: 生活明朗，万物可爱
